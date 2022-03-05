@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Django, React and ReactNative**
 
-- 👨‍💻 All of my projects are available at [https://www.sharyar.uz](www.sharyar.uz)
+- 👨‍💻 All of my projects are available at [www.sharyar.uz](https://www.sharyar.uz)
 
-- 📝 I regularly write articles on [https://www.sharyar.uz/blog](www.sharyar.uz/blog)
+- 📝 I regularly write articles on [www.sharyar.uz/blog](https://www.sharyar.uz/blog)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
