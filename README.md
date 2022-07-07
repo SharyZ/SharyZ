@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharyz&label=Profile%20views&color=0e75b6&style=flat" alt="sharyz" /> </p>
 
-- 🌱 I’m currently learning **Django, React and ReactNative**
+- 🌱 I’m currently learning **Django, Vue, React and ReactNative**
 
 - 👨‍💻 All of my projects are available at [www.sharyar.uz](https://www.sharyar.uz)
 
